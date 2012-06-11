@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mRunning http.HttpServer [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.sbt/boot/scala-2.9.1/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.twitter/finagle-core/jars/finagle-core-1.11.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.twitter/util-core/jars/util-core-1.12.13.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.twitter/util-hashing/jars/util-hashing-1.12.13.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.twitter/util-collection/jars/util-collection-1.12.13.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.google.guava/guava/jars/guava-r09.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/commons-collections/commons-collections/jars/commons-collections-3.2.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/io.netty/netty/bundles/netty-3.3.1.Final.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.twitter/finagle-http/jars/finagle-http-1.11.1.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.twitter/util-logging/jars/util-logging-1.12.13.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/com.twitter/util-codec/jars/util-codec-1.12.13.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.5.jar[0m
+[0m[[0mdebug[0m] [0m	/Users/kaoru/.ivy2/cache/commons-lang/commons-lang/jars/commons-lang-2.6.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread New I/O server boss #1 ([id: 0x0a92fe09, /0.0.0.0:8080]) to exit[0m

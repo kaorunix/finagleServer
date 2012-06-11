@@ -1,0 +1,10 @@
+run
+compile
+run
+proguard
+run
+compile
+sbt run
+run
+proguard
+run

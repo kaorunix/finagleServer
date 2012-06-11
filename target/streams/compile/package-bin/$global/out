@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/finagleserver_2.9.1-0.01.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient$HandleErrors$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient$HandleErrors$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpServer$Respond.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpServer$Respond.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient$.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpServer$.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpServer$.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpServer.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpServer.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpServer$HandleExceptions.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpServer$HandleExceptions.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient$$anonfun$amain$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient$$anonfun$amain$1.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient$$anonfun$makeAuthorizedRequest$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient$$anonfun$makeAuthorizedRequest$1.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpServer$HandleExceptions$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpServer$HandleExceptions$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient$InvalidRequest.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient$InvalidRequest.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient$HandleErrors.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient$HandleErrors.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpServer$Authorize.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpServer$Authorize.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient.class[0m
+[0m[[0mdebug[0m] [0m	http[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http[0m
+[0m[[0mdebug[0m] [0m	http/HttpServer$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpServer$$anon$1.class[0m
+[0m[[0mdebug[0m] [0m	http/HttpClient$$anonfun$makeUnauthorizedRequest$1.class[0m
+[0m[[0mdebug[0m] [0m	  /Users/kaoru/Documents/workspace/finagleServer_perf/target/scala-2.9.1/classes/http/HttpClient$$anonfun$makeUnauthorizedRequest$1.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
